@@ -1,31 +1,27 @@
 # Cornelis Heuperman - cheuperman@gmail.com
 [Projects](#projects) | [Skills](#skills)  | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-Former artist/barista/shipping coordinator, turned developer. Looking for work in a challenging environment building products with a big reach.
+Former artist/barista/shipping coordinator turned developer, looking for work in a challenging environment building human-friendly products with big reach.
 
 ## Projects
 
 | Project | Summary | Timeframe | Technologies |
 |----------|----------|----------|----------|
-|[Meshenger](https://github.com/neobay991/messenger-app) | Messenger app for iPhone, that can send direct messages over Bluetooth and p2p WiFi. Final project at Makers, built with a team of four. | Two weeks | Swift with XCTest for testing |
+|[Meshenger](https://github.com/neobay991/messenger-app) | Messenger app for iPhone, that can send direct messages over Bluetooth and p2p WiFi. Final project at Makers. | Two weeks | Swift with XCTest for testing |
 |[Bank Tech Test](https://github.com/heuperman/bank_tech_test) | Simple bank account controller built with a special focus on DRY code and TDD, including test driven refactoring.  | Three days | Ruby with Rspec and SimpleCov for testing. |
-|[Bowling Challenge](https://github.com/heuperman/bowling-challenge)| Automatic scoring for ten pin bowling.  | Three days | Javascript with Jasmine, Instanbul and Karma for testing.
+|[Bowling Challenge](https://github.com/heuperman/bowling-challenge)| Automatic scoring for ten pin bowling, with bonuses. Focus on OOP in Javascript.  | Three days | Javascript with Jasmine, Istanbul and Karma for testing.
 |[Hangman](https://github.com/heuperman/garden-of-git)|Play hangman against the computer, with visuals! My very first project, when all I had was a little Ruby and my trusty Terminal.  |One day|Ruby and bash |
 
 ## Skills
-**Organisational skills**
 
-Setting and achieving goals.
-Working with deadlines.
+**Self motivated**
+Before the course was even over I started my first personal projects. One was client directed: my partner wanted an easier way to download images for her work at a film festival. For her I built a Chrome extension that when clicked shows all images from a page and their respective sizes. For myself I am building one that when clicked will find all images on a page that have face in them and draws a silly mustache on them.
 
-**Communication**
+**Team Player**
+Perhaps my favourite aspects of Makers Academy was the focus on collaboration. Several times during the course I helped my pair partners to take a step back and remember their goals by discussing with them what exactly they wanted to learn this week and how they could get that knowledge. This of course also helped me remember mine.
 
-Experienced in working closely with team.
-
-**Visual Communication**
-
-Honed eye for visual design.
-Skilled draughtsman and painter.
+**Quick Study**
+For my final project at Makers, I worked with a team of four on building an app in Swift, a language none of us had ever even looked at before and which even the coaches were unfamiliar with. Through focussed research and experimentation, explaining my findings to my team members and integrating their findings with my own I guided our team to the successful completion of our app in under ten days.
 
 
 ## Experience
@@ -42,7 +38,7 @@ Skilled draughtsman and painter.
 
 
 - Responsible for overseeing shipping process for varied range of bespoke products from start to finish, including both domestic and international shipments.
-- Maintaining rigorous quality control and steamlined stock management.
+- Maintaining rigorous quality control and streamlined stock management.
 - Management and training of an assistant.
 
 
@@ -58,4 +54,4 @@ An undergraduate level course in illustration, where I learned how to communicat
 
 ## Interests
 
-- Making: painting, drawing, bike building, bookbinding, woodworking and of course software development.
+All kinds of making: painting, drawing, bike building, bookbinding, woodworking and of course software development.
