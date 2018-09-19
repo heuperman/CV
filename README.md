@@ -15,7 +15,7 @@ Former artist/barista/shipping coordinator turned developer, looking for work in
 ## Skills
 
 **Self motivated**   
-Before the course was even over I started my first personal projects. One was client directed: my partner wanted an easier way to download images for her work at a film festival. For her I built a Chrome extension that when clicked shows all images from a page and their respective sizes. For myself I am building one that when clicked will find all images on a page that have face in them and draws a silly mustache on them.
+Before the course was even over I started my first personal projects. One was client directed: my partner wanted an easier way to download images for her work at a film festival. For her I built a Chrome extension that when clicked shows all images from a page and their respective sizes. For myself I am building one that lets the user draw on top of web pages.
 
 **Team Player**   
 Perhaps my favourite aspects of Makers Academy was the focus on collaboration. Several times during the course I helped my pair partners to take a step back and remember their goals by discussing with them what exactly they wanted to learn this week and how they could get that knowledge. This of course also helped me remember mine.
