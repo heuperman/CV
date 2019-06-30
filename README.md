@@ -7,9 +7,9 @@ Former artist/barista/shipping coordinator turned developer, looking for work in
 
 | Project | Summary | Timeframe | Technologies |
 |----------|----------|----------|----------|
+|[Incremental Health](https://github.com/heuperman/incremental-health)| Small game where you try to balance work and stress levels. Built to familiarise myself with Angular. [Play it here.](https://heuperman.github.io/incremental-health/) | Four months spare time | Angular and Typescript using GitHub Pages and CircleCI for deployment |
 |[Meshenger](https://github.com/heuperman/messenger-app) | Messenger app for iPhone, that can send direct messages over Bluetooth and p2p WiFi. Final project at Makers. | Two weeks | Swift with XCTest for testing |
-|[Bank Tech Test](https://github.com/heuperman/bank_tech_test) | Simple bank account controller built with a special focus on DRY code and TDD, including test driven refactoring.  | Three days | Ruby with Rspec and SimpleCov for testing. |
-|[Bowling Challenge](https://github.com/heuperman/bowling-challenge)| Automatic scoring for ten pin bowling, with bonuses. Focus on OOP in Javascript.  | Three days | Javascript with Jasmine, Istanbul and Karma for testing.
+|[Bank Tech Test](https://github.com/heuperman/bank_tech_test) | Simple bank account controller built with a special focus on DRY code and TDD, including test driven refactoring.  | Three days | Ruby with Rspec and SimpleCov for testing |
 |[Hangman](https://github.com/heuperman/garden-of-git)|Play hangman against the computer, with visuals! My very first project, when all I had was a little Ruby and my trusty Terminal.  |One day|Ruby and bash |
 
 ## Skills
